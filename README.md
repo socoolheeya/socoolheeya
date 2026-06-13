@@ -13,7 +13,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6D8B33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Kotlin-9140F7?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-9140F7?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
+  <img src="https://shields.io/badge/python-3.11+-blue?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <br>
