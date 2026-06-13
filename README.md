@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/HTML-dd4b25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/></a>&nbsp
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp
 </p>
@@ -42,6 +43,15 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp  
+</p>
+<br>
+
+### Data
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/RAG-Supported-brightgreen/"></a>&nbsp
+  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-orange"/></a>&nbsp
 </p>
 <br>
 
